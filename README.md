@@ -1,2 +1,2 @@
 # odin-hashmap
-Javascript HashMap implementation
+Javascript HashMap & HashSet implementation
